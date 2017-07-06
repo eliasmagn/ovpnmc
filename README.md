@@ -10,9 +10,5 @@ Intended to be used from /etc/openvpn/client-configs
 mkdir /etc/openvpn/client-configs
 
 Dont use this script if someone can look over your shoulder who shouldnt..
-
-Inspired by 
-jellingwood on digitalocean
-
 all credits belong to me XD
 hagt
