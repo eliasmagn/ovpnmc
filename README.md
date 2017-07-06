@@ -1,5 +1,6 @@
 # ovpnmc
 Copyright 2013 EMH GPLv3
+
 Script for easy client config generation with easy-rsa and per client directory store. Bashscript!
 
 OVPNMC is a small script overloaded with echo commands and "bloatlike" use of openssl and directories!
